@@ -1,0 +1,10 @@
+appsettings.Development
+dotnetbs
+libman
+WebApplication4
+WebApplication4.csproj.user
+.config/
+bin/
+obj/
+Views/
+wwwroot/
